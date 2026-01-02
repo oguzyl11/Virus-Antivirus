@@ -1,0 +1,10 @@
+C:\Users\OGUZHAN\OneDrive\Desktop\virusantivirus\Virus-Antivirus\bin\Debug\VirusAntivirus.exe.config
+C:\Users\OGUZHAN\OneDrive\Desktop\virusantivirus\Virus-Antivirus\bin\Debug\VirusAntivirus.exe
+C:\Users\OGUZHAN\OneDrive\Desktop\virusantivirus\Virus-Antivirus\bin\Debug\VirusAntivirus.pdb
+C:\Users\OGUZHAN\OneDrive\Desktop\virusantivirus\Virus-Antivirus\obj\Debug\VirusAntivirus.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\OneDrive\Desktop\virusantivirus\Virus-Antivirus\obj\Debug\VirusAntivirus.Form1.resources
+C:\Users\OGUZHAN\OneDrive\Desktop\virusantivirus\Virus-Antivirus\obj\Debug\VirusAntivirus.Properties.Resources.resources
+C:\Users\OGUZHAN\OneDrive\Desktop\virusantivirus\Virus-Antivirus\obj\Debug\VirusAntivirus.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\OneDrive\Desktop\virusantivirus\Virus-Antivirus\obj\Debug\VirusAntivirus.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\OneDrive\Desktop\virusantivirus\Virus-Antivirus\obj\Debug\VirusAntivirus.exe
+C:\Users\OGUZHAN\OneDrive\Desktop\virusantivirus\Virus-Antivirus\obj\Debug\VirusAntivirus.pdb
